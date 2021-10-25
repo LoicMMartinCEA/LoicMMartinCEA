@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : the easiest way is to e-mail me at loic.martin@cea.fr
 -  You can find some of my published article via my SCOPUS ID : 0000-0002-7940-2955
+-  Or on my Researcher ID : E-1627-2011
 
 <!---
 gifloic/gifloic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
